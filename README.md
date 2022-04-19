@@ -30,4 +30,4 @@ Pemodelan
 
 **Hasil**
 
-Model dapat memprediksi variabel target dengan skor r2 = 0,8413. Video pendek memiliki rasio Like to View yang lebih tinggi. Pada hari pertama, rasio memiliki skor tinggi kemudian menurun setelah beberapa hari.
+Model dapat memprediksi variabel target dengan skor r2 = 0,8413. Video pendek memiliki rasio Like to View yang lebih tinggi. Pada hari pertama diupload, rasio memiliki skor tinggi kemudian menurun setelah beberapa hari.
