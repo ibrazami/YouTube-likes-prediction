@@ -3,6 +3,7 @@
 Data dari https://www.kaggle.com/c/kaggle-pog-series-s01e01
 
 train dataset = digunakan untuk pemodelan, terdiri dari 20 kolom dan 92275 baris.
+
 test dataset = target untuk aplikasi model, terdiri dari 16 kolom dan 5800 baris.
 
 **Proses**
